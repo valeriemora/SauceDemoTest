@@ -10,7 +10,7 @@ The tests in this framework are for the web page https://www.saucedemo.com/
   - Click on Clone or Download and copy the project url
   - Open the command line terminal
   - Navigate to the desired directory for the project
-  - Execute `git clone [ProjectURL]
+  - Execute `git clone [ProjectURL]`
 - [Install HomeBrew](https://brew.sh/)
 - Install NodeJS using `brew install node`
 - Install Testcafe using `npm install testcafe`
