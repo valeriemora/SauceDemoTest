@@ -3,7 +3,7 @@
         "testChrome": "testcafe chrome tests/*",
         "testFirefox": "testcafe firefox tests/*",
         "testSafari": "testcafe safari tests/*",
-        "testReport": "testcafe chrome tests/* --reporter html:reports/testingReport.html",
+        "testReport": "testcafe safari tests/* --reporter html:reports/testingReport.html",
         "testAllBrowsers": "npm run testChrome && npm run testFirefox && npm run testReport",
         "testWithReport": "npm run testReport"
     },
